@@ -24,6 +24,7 @@ The dataset related to customer information is from a telecommunication service 
 - Handled outliers in numerical columns using the Interquartile Range (IQR) method.
 
 **Model Selection**
+
 Three models were trained and evaluated: Logistic Regression, Random Forest Classifier, and Gradient Boosting Classifier.
 
 - Logistic Regression demonstrated the highest accuracy among the three models.
